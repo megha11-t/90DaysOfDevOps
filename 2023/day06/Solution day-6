@@ -1,1 +1,8 @@
+# 1.create a file
+touch maggi.txt
+ls -l
 
+#change permissions of it
+chmod 764 maggi.txt
+
+#read about ACL from notes
